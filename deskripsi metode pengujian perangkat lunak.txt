@@ -1,0 +1,7 @@
+Deskripsi salah satu metode pengujian perangkat lunak
+
+Dynamic testing
+
+Jenis software testing ini proses pengujiannya dilakukan saat program sedang berjalan atau kode program sudah dieksekusi oleh para developer.
+Dengan memasukkan input ke dalamnya, penguji bisa melihat dan membandingkan output dari software yang diinginkan.
+Maka dari itu, penguji nantinya bisa melihat perilaku, performance, serta kualitas memori dari sistem aplikasi.
